@@ -1,6 +1,7 @@
 apiVersion: 1.0.0
 metadata:
   generateName: postit-app-
+  schemaVersion: 2.2.0
 
 
 components:
